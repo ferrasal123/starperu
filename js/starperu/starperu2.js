@@ -1,0 +1,1 @@
+objstar=[{"imagen":"http://localhost/sistpanel/uploads/imgen_1560872936.jpg","desde":"18/06/2019","hasta":"18/06/2019","inicio":"10:48:33","fin":"10:48:33","estado":"1","link":"","extension":"html","banner":"0","promocion":"0","id":1}]
